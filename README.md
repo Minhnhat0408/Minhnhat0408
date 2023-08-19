@@ -9,11 +9,12 @@
 
 - 🌱 I’m currently learning **Supabase, NextJS**
 
-- ⚡ Fun fact **I'm pretty monotonous until you get to know me**
+- ⚡ Fun fact **I'm pretty boring until you get to know me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/Minhatt048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhatt048" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/minh-nguyễn-3a7399264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfdsgdfsgs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
