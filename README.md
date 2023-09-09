@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Minhnhat0408&icon=5&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Nguyễn Nhật Minh</h1>
 <h3 align="center">A front-end Developer from VietNam with a view to become a fullstack Dev in the future.</h3>
 
@@ -17,7 +18,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Minhnhat0408&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
