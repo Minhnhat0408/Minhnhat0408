@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Hub Media](https://pbhubmedia.vercel.app/), [MinAI](https://minai.vercel.app/) <br>🌱 I’m currently learning **Supabase, NextJS**<br>⚡ Fun fact **I'm pretty boring until you get to know me**
+🔭 I’m currently working on [Gbox](https://github.com/Minhnhat0408/Gbox), [Hub Media](https://pbhubmedia.vercel.app/), [MinAI](https://min-ai.vercel.app/) <br>🌱 I’m currently learning **Supabase, NextJS**<br>⚡ Fun fact **I'm pretty boring until you get to know me**
 
 
 ## 🌐 Socials:
