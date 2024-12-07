@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Minhnhat0408&icon=5&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Nguyễn Nhật Minh</h1>
 <h3 align="center">A Developer from VietNam with a goal to build softwares that actually matter</h3>
-<p align="center"><i>It not about what you've learnt it about the software you want to build.</i></p>
+<p align="center"><i>It not about what you've learnt, it about the software you want to build.</i></p>
 
 
 # 💫 About Me:
