@@ -6,6 +6,7 @@
 
 # 💫 About Me:
 ⚡ Fun fact **I'm pretty boring until you get to know me**
+<br>
 💻 I have experience in Web, Mobile App and ML, AI.
 
 
